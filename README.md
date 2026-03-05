@@ -14,7 +14,7 @@ Valve switching is achieved via a stepper motor controlled by an Arduino UNO Q. 
 
 ## Usage
 ### Arduino Code
-- Upload the `code/Motor_Control.ino` sketch to the Arduino UNO Q once.
+Upload the `code/Motor_Control.ino` sketch to the Arduino UNO Q once.
 ### Monitoring
 1. Ensure that one spectrum per second is recorded and that the spectrum is saved as a txt-file in monitored folder.
 2. Connect Arduino with computer.
