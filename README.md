@@ -8,9 +8,9 @@ This repository contains the software and datasets for an automated 6-port switc
 Valve switching is achieved via a stepper motor controlled by an Arduino UNO Q. The Arduino signals to an A4988 motor driver, which regulates the motor’s rotation with precise angular steps.
 
 ## Structure
-- code/ contains jupyter notebooks used for analysis and monitoring, and contains Arduino code
-- data/ contains data sets from two test series
-- results/ ......
+- 'code/' contains jupyter notebooks used for analysis and monitoring, and contains Arduino code
+- 'data/' contains data sets from two test series
+- 'results/' ......
 
 ## Usage
 ### Arduino Code
