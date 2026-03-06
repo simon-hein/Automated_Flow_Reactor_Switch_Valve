@@ -1,10 +1,10 @@
 # Development of an Automated Switch Valve for a Flow Reactor
 
 ## Author
-Simon Hein
+Simon Hein (supervised by Hannah Mehringer)
 
 ## Description
-This repository contains the software and datasets for an automated 6-port switch valve system used in a flow reactor. The system continuously monitors in-line UV-Vis spectra to automatically separate water from reaction products. Additionally, the scripts allow generating both 2D time-intensity plots and 3D spectral plots for data visualization and analysis.
+This repository contains the software and datasets for an automated 6-port switch valve system used in a flow reactor. The system continuously monitors in-line UV-Vis spectra to automatically separate water from reaction products. Additionally, the scripts allow generating both 2D time-intensity plots and 3D spectral plots for data visualization and analysis. <br>
 Valve switching is achieved via a stepper motor controlled by an Arduino UNO Q. The Arduino signals to an A4988 motor driver, which regulates the motor’s rotation with precise angular steps.
 
 ## Structure
