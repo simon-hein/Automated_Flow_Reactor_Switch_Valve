@@ -46,7 +46,7 @@ Code was written and executed on a MacBook Pro.
 - Visual Studio Code: 1.109.4
 
 ### Hardware Requirements
-- Computer: MacBook Pro, 13", 2020 (serial number: C02DDDPYML7H)
+- Computer: MacBook Pro, 13", 2020 
 - Microcontroller board: Arduino UNO Q
 - Motor driver: A4988
 - Spectrometer: Avantes AvaSpec-ULS2048XL-EVO
