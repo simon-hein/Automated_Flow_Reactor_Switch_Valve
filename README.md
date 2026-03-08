@@ -10,7 +10,7 @@ Valve switching is achieved via a stepper motor controlled by an Arduino UNO Q. 
 ## Structure
 - `code/` contains jupyter notebooks used for analysis and monitoring, and contains Arduino code
 - `data/` contains data sets from two test series
-- `results/` ...... 
+- `results/` contains 2D- and 3D- plotted data
 
 ## Usage
 ### Arduino Code
